@@ -66,6 +66,7 @@ This is a lot of stuff; a lot of it is optional, a bunch of it you can borrow fr
 - [ ] Benadryl
 - [ ] Sudafed
 - [ ] Bandages
+- [ ] Antibiotic ointment
 
 ### Quality of Life
 
