@@ -1,4 +1,4 @@
-## Hiking Kit Checklist
+## Backpacking Gear Checklist
 
 This is a lot of stuff; a lot of it is optional, a bunch of it you can borrow from me. As a general rule, don't bring anything that won't fit in your pack.
 
